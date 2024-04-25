@@ -1,1 +1,1 @@
-Simple calculator code has been uploaded in python language.
+Simple calculator,Generating password and Rock paper game code has been uploaded in python language.
